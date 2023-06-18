@@ -3,8 +3,6 @@ KOSA Bigdata DeepLearning Analysis - 2023년 6월 20~24일 (4일간, 8시간x4�
 
 <img width="1152" alt="curi" src="https://github.com/JSJeong-me/KOSA_BIGDATA_DEEPLEARNING/assets/54794815/f1cfd814-f2d6-4ae4-b32e-aaae19fcab52">
 
-
-
 ### 과정 소개
 
 1일차: 생성형 AI를 이용한 Python 프로그램 코딩 및 Docker & Kubernetes 환경 구축
