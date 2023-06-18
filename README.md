@@ -1,7 +1,5 @@
 # KOSA_BIGDATA_DEEPLEARNING
 KOSA Bigdata DeepLearning Analysis - 2023년 6월 20~24일 (4일간, 8시간x4일 총 32시간)
-<img width="1152" alt="curi" src="https://github.com/JSJeong-me/KOSA_BIGDATA_DEEPLEARNING/assets/54794815/f1cfd814-f2d6-4ae4-b32e-aaae19fcab52">
-
 ```
 ### 과정 소개
 
@@ -13,6 +11,7 @@ KOSA Bigdata DeepLearning Analysis - 2023년 6월 20~24일 (4일간, 8시간x4�
 
 4일차: 데이터 Featuring 및 딥러닝 모델 생성
 ```
+<img width="1152" alt="curi" src="https://github.com/JSJeong-me/KOSA_BIGDATA_DEEPLEARNING/assets/54794815/f1cfd814-f2d6-4ae4-b32e-aaae19fcab52">
 
 ### 빅데이터 파이럿 아키텍처?
 
