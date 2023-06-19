@@ -7,7 +7,7 @@ KOSA Bigdata DeepLearning Analysis - 2023년 6월 20~24일 (4일간, 8시간x4�
 
 1일차: 생성형 AI를 이용한 Python 코딩 및 Docker & Kubernetes 환경 구축
 
-생성형 AI 교안(2~5 교시): [https://han.gl/mEpGSV]   WSL, Docker 환경 구축 교안(6~8 교시): [https://han.gl/cxfwhR]
+생성형 AI 교안(2~5 교시): [https://han.gl/mEpGSV] 생성형 AI 교안(6 교시): 추상화  WSL, Docker 환경 구축 교안(7~8 교시): [https://han.gl/cxfwhR]
 
 실습 파일 1: https://github.com/JSJeong-me/KOSA_ChatGPT_0531/blob/main/Chrome_Temperature.py
 
