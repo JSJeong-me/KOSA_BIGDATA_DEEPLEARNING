@@ -1,5 +1,9 @@
 # KOSA_BIGDATA_DEEPLEARNING
-KOSA Bigdata DeepLearning Analysis - 2023년 6월 20~24일 (4일간, 8시간x4일 총 32시간)
+KOSA Bigdata DeepLearning Analysis - 2023년 8월 29 ~ 9월 1일 (4일간, 8시간x4일 총 32시간)
+
+![bigdata](https://github.com/JSJeong-me/KOSA_BIGDATA_DEEPLEARNING/assets/54794815/7cfb9b3c-56bf-43b2-b541-09901f2b2ab9)
+
+
 
 ### 수업 워크(공유) Sheet:  https://han.gl/peNAER
 ```
