@@ -5,25 +5,15 @@ KOSA Bigdata DeepLearning Analysis - 2023년 8월 29 ~ 9월 1일 (4일간, 8시�
 
 
 
-### 수업 워크(공유) Sheet:  https://han.gl/peNAER
+### 수업 워크(공유) Sheet:  https://url.kr/bgsuc7
 ```
 과정 소개
 
-1일차: 생성형 AI를 이용한 Python 코딩 및 Docker & Kubernetes 환경 구축
+1일차: 생성형 AI를 이용한 데이터 분석 기초과 Vector Stores
 
-생성형 AI 교안(2~5 교시): [https://han.gl/mEpGSV] 생성형 AI 교안(6 교시): 추상화  WSL, Docker 환경 구축 교안(7~8 교시): [https://han.gl/cxfwhR]
+생성형 AI 교안(2~5 교시): https://github.com/JSJeong-me/KOSA_GPT_for_All_0825
 
-실습 파일 1: https://github.com/JSJeong-me/KOSA_ChatGPT_0531/blob/main/Chrome_Temperature.py
-
-실습 파일 2:
-
-> Act as your a excellent Python programmer, please write the python code using a scrapy to get the XPath in getElements method with the followings:
-
-> URL: https://search.rakuten.co.jp/search/mall/air+purifier/
-> XPath: //*[@id="root"]/div[3]/div[2]/div[5]/div/div/div/div[1]/div[2]/h2/a
-
-
-실습 파일 3: Dockerfile 작성
+실습 파일 1: Dockerfile 작성
 
 > write a Dockerfile for node.js application
 > explain exactly what  WORKDIR directive means in dockerfile
@@ -40,12 +30,12 @@ KOSA Bigdata DeepLearning Analysis - 2023년 8월 29 ~ 9월 1일 (4일간, 8시�
 Docker 와 Fluentd 교안: https://github.com/JSJeong-me/docker/blob/main/1-%EA%B5%90%EC%95%88-Docker(1%EC%9D%BC%EC%B0%A8).pdf
 
 
-3일차: EFK를 이용한 Kubernetes 데이터 수집 및 시각화
+3일차: GPT
 
 EFK 교안: https://github.com/JSJeong-me/EFK/blob/main/01_Day/EFK_Elasticsearch(1%EC%9D%BC%EC%B0%A8).pdf
 
 
-4일차: 데이터 Featuring 및 딥러닝 모델 생성
+4일차: GPT 모델 활용과 나만의 모델 만들기
 
 교안: https://github.com/JSJeong-me/KOSA_BIGDATA_DEEPLEARNING/blob/main/Feature_Engineering/5_ML(JSJeong).pdf
 
